@@ -959,7 +959,20 @@ footer {
     position: fixed;
     left: 20px;
   }
-
+  #banner .linkedin {
+	float: left;
+	display: inline-block;
+	margin-left: 0px;
+	position: fixed;
+	left: 151px;
+  }
+  #banner .resume {
+    float: left;
+	display: inline-block;
+	margin-left: 0px;
+	position: fixed;
+	left: 288px;
+  }
   section {
     margin-top: 130px;
     margin-bottom: 0px;
@@ -984,13 +997,35 @@ footer {
     -o-text-overflow: ellipsis;
     -ms-text-overflow: ellipsis;
   }
-
+  #banner {
+    position: relative;
+	top: 0px;
+	margin:0px;
+	margin-bottom: -8px;
+  }
+  #banner .fork {
+    float: left;
+    display: inline-block;
+    margin-left: 0px;
+    position: absolute;
+    left: 20px;
+  }
+  #banner .linkedin {
+	float: left;
+	display: inline-block;
+	margin-left: 0px;
+	position: absolute;
+	left: 151px;
+  }
+  #banner .resume {
+    float: left;
+	display: inline-block;
+	margin-left: 0px;
+	position: absolute;
+	left: 288px;
+  }
   section {
     margin-top: 5px;
-  }
-
-  #banner {
-    display: none;
   }
 
   header ul {
@@ -1004,6 +1039,67 @@ footer {
     color: #444;
   }
 }
+
+/* remove catopus logo. It's starting to fall off screen. */
+@media print, screen and (max-width: 462px) {
+  #banner #logo {
+    display: none;
+  }
+}
+
+/* smaller screens:
+   banner buttons set by percents, not pixels.
+   */
+@media print, screen and (max-width: 420px) {
+  #banner {
+    height: 50px;
+	margin-bottom: -8px;
+  }
+  #banner .fork {
+    float: left;
+    display: inline-block;
+    position: absolute;
+    width: 30.5%;
+    padding-left: 0;
+    padding-right: 0;
+    left: 0%;
+    margin-left: 20px;
+  }
+  #banner .fork strong {
+    margin: 3px;
+  }
+  #banner .linkedin {
+    float: left;
+    display: inline-block;
+    position: absolute;
+    width: 30.5%;
+	padding-left: 0;
+	padding-right: 0;
+	left: 30.5%;
+	margin-left: 28px;
+  }
+  #banner .resume {
+    float: left;
+    display: inline-block;
+    position: absolute;
+    width: 25.5%;
+	padding-left: 0;
+	padding-right: 0;
+	left: 61%;
+	margin-left: 36px;
+  }
+  #banner .resume strong {
+    margin: 3.35px;
+  }
+}
+
+/* change banner hight since buttons are word-wrapped around.  */
+@media print, screen and (max-width: 350px) {
+  #banner {
+    height: 62px;
+  }
+}
+
 @media print, screen and (max-height: 680px) {
   footer {
     text-align: center;
@@ -1014,6 +1110,8 @@ footer {
     width: auto;
   }
 }
+
+
 @media print, screen and (max-height: 480px) {
   nav {
     display: none;
