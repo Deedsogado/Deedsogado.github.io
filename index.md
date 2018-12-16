@@ -71,8 +71,11 @@ Written in HTML and CSS using Notepad++.
 * 8 pages total. 
 * I created the structure, layout, and most CSS of the website. 
 * Used Google Drive for version control. 
+
 Disclaimer
+
 > The joke PDF files were included as a requirement of the project, and are NOT to be taken seriously. DO NOT send any information requested by the forms. That being said, the Film Festivals page is the funniest and was written by a good friend of mine. You should read it.
+
 #### [Live Webpage.](https://deedsogado.github.io/ShutterFlix-Cinema/)
 #### [Source Code.](https://github.com/Deedsogado/ShutterFlix-Cinema)
 
