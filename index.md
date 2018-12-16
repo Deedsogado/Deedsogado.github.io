@@ -9,7 +9,7 @@ Written in HTML, Javascript, and WebGL Shader Language.
 * The moon orbits Earth once every 27 days, and the same side of the moon always faces earth. 
 #### [Live Webpage.](https://deedsogado.github.io/EarthMoon/EarthMoon.html)
 #### [Source Code.](https://github.com/Deedsogado/EarthMoon) 
-![Moon Near Earth](https://github.com/Deedsogado/EarthMoon/blob/master/Sample.png "Picture of Moon near Earth. ")
+![Moon Near Earth](https://raw.githubusercontent.com/Deedsogado/EarthMoon/master/Sample.png "Picture of Moon near Earth. ")
 
 ## Asteroids FishEye
 ### Clone of Asteroids game with pseudo-logarithmic compressed "infinite" universe.
@@ -19,7 +19,7 @@ Written in C++ using Winforms.
 * When asteroids get too far away, they are teleported to just off-screen to prevent players from chasing an asteroid for hours. 
 * Has a high score game
 #### [Source Code.](https://github.com/Deedsogado/AsteroidsFisheye) 
-![Ship in Asteroids](https://github.com/Deedsogado/AsteroidsFisheye/blob/master/Project7a.png "Ship in Asteroid field")
+![Ship in Asteroids](https://raw.githubusercontent.com/Deedsogado/AsteroidsFisheye/master/Project7a.png "Ship in Asteroid field")
 The picture really doesn't do this justice. You should play the game. 
 
 ## BobAwesome
@@ -30,7 +30,7 @@ Written in C# and XAML using WPF.
 * Supports mouse, touch screen, and keyboard controls. 
 * Supports saving and loading games as files.
 #### [Source Code.](https://github.com/Deedsogado/BobAwesome) 
-![Game play map](https://github.com/Deedsogado/BobAwesome/blob/master/gameplay.png "Picture of gameplay map.")
+![Game play map](https://raw.githubusercontent.com/Deedsogado/BobAwesome/master/gameplay.png "Picture of gameplay map.")
 
 ## ReserveARoom ![Larry the Lion &copy; 2013 LDSBC](https://raw.githubusercontent.com/Deedsogado/ReserveARoom/master/app/src/main/res/drawable-mdpi/ic_launcher.png)
 ### Android app to reserve rooms in the LDSBC library.
@@ -40,7 +40,7 @@ Written in Java, XML, PHP, and SQL-lite using Android Studio.
 * Uses fragments to place different objectives on a single activity screen. 
 * Project on hiatus, to be continued by future LDSBC students. 
 #### [Source Code.](https://github.com/Deedsogado/ReserveARoom) 
-![Tablet version](https://github.com/Deedsogado/ReserveARoom/blob/master/datepickertablet.png "List of rooms with Date and Time picker side by side")
+![Tablet version](https://raw.githubusercontent.com/Deedsogado/ReserveARoom/master/datepickertablet.png "List of rooms with Date and Time picker side by side")
 
 ## Memory Match Game
 ### Flip over cards to find the matching pairs. 
@@ -49,7 +49,7 @@ Written in Java using Swing GUI library.
 * Can play in command line shell or GUI window.  
 * Can play with 10, 20, or 30 cards. 
 #### [Source Code.](https://github.com/Deedsogado/Memory-Match-Game-GUI) 
-![GUI based](https://github.com/Deedsogado/Memory-Match-Game-GUI/blob/master/GUIbased2.png "GUI Memory Match Game")
+![GUI based](https://raw.githubusercontent.com/Deedsogado/Memory-Match-Game-GUI/master/GUIbased2.png "GUI Memory Match Game")
 
 
 # Websites
