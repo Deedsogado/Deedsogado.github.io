@@ -2,7 +2,7 @@
 Projects are listed below, with pictures. 
 
 ## EarthMoon
-### 3d animated model of Earth and the Moon
+3d animated model of Earth and the Moon
 Written in HTML, Javascript, and WebGL Shader Language.
 * Distance between Earth and Moon is not to scale. 
 * In the light you can the Earth's surface, in the dark you can see city lights. 
@@ -12,7 +12,7 @@ Written in HTML, Javascript, and WebGL Shader Language.
 ![Moon Near Earth](https://raw.githubusercontent.com/Deedsogado/EarthMoon/master/Sample.png "Picture of Moon near Earth. ")
 
 ## Asteroids FishEye
-### Clone of Asteroids game with pseudo-logarithmic compressed "infinite" universe.
+Clone of Asteroids game with pseudo-logarithmic compressed "infinite" universe.
 Written in C++ using Winforms.
 * Ship aims where your mouse is "projected" into the universe. 
 * Camera follows Ship when the ship passes a certain threshold.  
@@ -23,7 +23,7 @@ Written in C++ using Winforms.
 The picture really doesn't do this justice. You should play the game. 
 
 ## BobAwesome
-### 2D text based dungeon game.  
+2D text based dungeon game.  
 Written in C# and XAML using WPF. 
 * All blocks start as black until visited.  
 * Discover potions to consume, weapons to equip and monsters to fight.
@@ -33,7 +33,7 @@ Written in C# and XAML using WPF.
 ![Game play map](https://raw.githubusercontent.com/Deedsogado/BobAwesome/master/gameplay.png "Picture of gameplay map.")
 
 ## ReserveARoom ![Larry the Lion &copy; 2013 LDSBC](https://raw.githubusercontent.com/Deedsogado/ReserveARoom/master/app/src/main/res/drawable-mdpi/ic_launcher.png)
-### Android app to reserve rooms in the LDSBC library.
+Android app to reserve rooms in the LDSBC library.
 Written in Java, XML, PHP, and SQL-lite using Android Studio.
 * Different layouts for phone and tablet.
 * Supports foreign languages (currently English and Spanish). 
@@ -43,7 +43,7 @@ Written in Java, XML, PHP, and SQL-lite using Android Studio.
 ![Tablet version](https://raw.githubusercontent.com/Deedsogado/ReserveARoom/master/datepickertablet.png "List of rooms with Date and Time picker side by side")
 
 ## Memory Match Game
-### Flip over cards to find the matching pairs. 
+Flip over cards to find the matching pairs. 
 Written in Java using Swing GUI library.
 * CS 115 Team project with Co-Author Austin Beauregard.
 * Can play in command line shell or GUI window.  
@@ -56,7 +56,7 @@ Written in Java using Swing GUI library.
 Created mostly for school projects years ago. Some of the plugins have become deprecated or expired.
 
 ## About me
-### Biography site created without IDE or WYSIWYG.
+Biography site created without IDE or WYSIWYG.
 Written in HTML and CSS using Notepad++. 
 * Single person project for CS 135 at LDSBC.
 * Page can scroll behind header. 
@@ -65,7 +65,7 @@ Written in HTML and CSS using Notepad++.
 #### [Source Code.](https://github.com/Deedsogado/About-Me) 
 
 ## ShutterFlix Cinema
-### Funny website written for fictitious cinema company 
+Funny website written for fictitious cinema company 
 Written in HTML and CSS using Notepad++.
 * 4 person team project for CS 135 at LDSBC. 
 * 8 pages total. 
@@ -80,7 +80,7 @@ Disclaimer
 #### [Source Code.](https://github.com/Deedsogado/ShutterFlix-Cinema)
 
 ## Brett McCue's Auto Service
-### Website written for a real friend's fictitious mechanic company 
+Website written for a real friend's fictitious mechanic company 
 Written in HTML using Microsoft Expression Web 4.
 * Created for IS 240 at LDSBC. 
 * The purpose of this class was to bridge gaps of understanding between business demands and technological supply.
@@ -91,7 +91,7 @@ Written in HTML using Microsoft Expression Web 4.
 
 
 ## High school portfolio. 
-### Product of my very first IT-related course in High School
+Product of my very first IT-related course in High School
 Written in HTML and CSS in MS Notepad. 
 * Contains links to exercises, midterm, and final projects from Idaho Digital Learning Academy (IDLA).
 * Completed in 2010. 
