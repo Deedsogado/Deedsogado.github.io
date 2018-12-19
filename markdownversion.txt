@@ -9,6 +9,23 @@ Projects are organized by platform, and contain links to Source Code. Links to l
   * CS 115 Team project with Co-Author Austin Beauregard. Used Google Drive as version control.
   * Terminal / CMD version available here.
 
+## WebGL
+#### EarthMoon
+Its a model of the Earth orbited by the moon, with lighting effects and day/night cycle. 
+* Created using HTML, CSS, Javascript, and GLSL for WebGL shaders. 
+
+## C# 
+#### BobAwesome
+Help Bob Awesome find the exit from the dungeon!
+* Created using C#. 
+* A very simplistic game without pictures. 
+* It's a grid of colored blocks with text on them. 
+* Events create pop-up windows. 
+* Supports saving and loading games as files. 
+* touchscreen, mouse, and keyboard controls. 
+
+
+
 ## Webpages
 Created mostly for school projects years ago. Some of the plugins have become deprecated or expired, but could be repaired if requested. 
 
